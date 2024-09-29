@@ -52,7 +52,7 @@ export default function Header() {
               <h1 className="text-xl font-bold">STORE NAME</h1>
             </Link>
           </div>
-          <nav className="mx-6 flex hidden items-center space-x-4 md:block lg:space-x-6">
+          <nav className="mx-6 hidden items-center space-x-4 md:flex lg:space-x-6">
             {routes.map((route, i) => (
               <Button asChild variant="ghost" key={i}>
                 <Link
