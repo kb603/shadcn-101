@@ -1,6 +1,6 @@
 # Shadcn
 
-This is a **Next.js** project built to learn and explore **Shadcn** components with **Tailwind CSS** and **TypeScript**.
+This is a **Next.JS** project built to learn and explore **Shadcn** components with **Tailwind CSS** and **TypeScript**.
 
 ## Overview
 
